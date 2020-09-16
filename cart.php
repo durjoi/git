@@ -1,3 +1,4 @@
 <?php
-  echo "Cart"
+  echo "Your Cart";
+  echo "bla bla bla";
  ?>
